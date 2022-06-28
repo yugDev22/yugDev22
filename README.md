@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yugDev22
 - 👀 I’m interested in ML and Computer vision
-- 🌱 I’m currently learning Deep learning
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on DL projects
 - 📫 contact me @ yugamsaini11@gmail.com
 
