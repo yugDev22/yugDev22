@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yugDev22
+- 👋 Hi, I’m Yugam Bhattania (@yugDev22)
 - 👀 I’m interested in ML and Computer vision
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on DL projects
